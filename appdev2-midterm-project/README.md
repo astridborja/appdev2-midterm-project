@@ -2,7 +2,6 @@
 
 **Author:** Astrid Borja
 **Course:** BSIS 3 AppDev 2  
-**Project Deadline:** April 19
 
 ## 📌 Project Summary
 
